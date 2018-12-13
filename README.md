@@ -1,5 +1,5 @@
 # gatsby-starter-blog
-Gatsby starter for creating a blog
+Gatsby starter for creating a blog. This is forked from KyleAMathews's project.
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
 
