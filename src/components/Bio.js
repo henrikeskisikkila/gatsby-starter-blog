@@ -27,10 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
+          Kirjoittanut <strong>Henri Keski-Sikkilä</strong>, jonka intohimona on kehittää tulevaisuuden digitaalisia palveluita.{' '}
+          <a href="https://twitter.com/hkeskisikkila">
+            Voit seurata Twitterissä
           </a>
         </p>
       </div>
